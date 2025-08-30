@@ -32,7 +32,7 @@ The app follows **Simple Architecture** principles and integrates **Room Databas
 
 | Home Screen | Add Note | View Note |
 |------------|-----------|-----------|
-| ![Home](<img width="542" height="1135" alt="Screenshot 2025-08-30 195810" src="https://github.com/user-attachments/assets/02b80cf1-513b-4890-91d3-f2beb12e2ee0" />
+|(<img width="542" height="1135" alt="Screenshot 2025-08-30 195810" src="https://github.com/user-attachments/assets/02b80cf1-513b-4890-91d3-f2beb12e2ee0" />
 ) | ![Add Note](./screenshots/add.png) | ![View](./screenshots/view.png) |
 
 > 📌 Place your app screenshots in a `screenshots` folder and replace the above paths.
